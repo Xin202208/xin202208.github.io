@@ -1,0 +1,1 @@
+import{h as t}from"./request-29b8533b.js";import"./storage-189643b0.js";import"./index-f56efdbb.js";const p=()=>t.get("api/auth/genAuthImage"),s=r=>t.post("api/permissions/userLogin",r);export{p as authImage,s as userLogin};
