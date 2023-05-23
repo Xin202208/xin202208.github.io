@@ -1,0 +1,1 @@
+import{h as t}from"./request-29b8533b.js";import"./storage-189643b0.js";import"./index-f56efdbb.js";const n=()=>t.get("api/index/getTodayNewsList"),o=()=>t.get("api/index/getTodayWeather"),s=()=>t.get("api/index/getNewsBulletinList");export{s as getNewsBulletinList,n as getTodayNews,o as getWeather};
